@@ -1,0 +1,4 @@
+import os
+import csv 
+
+airline_path = os.path.join(r"C:\airline_data.csv")
