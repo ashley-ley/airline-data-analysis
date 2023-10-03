@@ -1,18 +1,43 @@
+from flask import Flask, jsonify
+import numpy as np
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func, distinct 
+import datetime as dt
+
+
+
+
+
+
+
 import os
 import psycopg2
+from flask import Flask, jsonify, g, request
+from sqlalchemy import create_engine, Column, Integer, String
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker, scoped_session
 
+
+#Base = declarative_base()
+# Save references to each table
+#measurement = Base.classes.measurement
+#station = Base.classes.station
+app = Flask(__name__)
 conn = psycopg2.connect(
         host="localhost", 
         port="5432",
-        database="airline_db",
-        user=os.environ['postgres'],
-        password=os.environ['postgres'])
+        dbname="Airline_db",
+        user='postgres',
+        password='postgres')
 
 #################################################
 # Flask Routes
 #################################################
 
-@app.route('/italy', methods=['GET'])
+
+@app.route('/airline_db', methods=['GET'])
 def get_flight_status():
     # Get the table name from the query parameter
     table_name = request.args.get('italy_flights')
@@ -109,4 +134,4 @@ def get_flight_status():
     finally:
         cursor.close()
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True,port=5001)
