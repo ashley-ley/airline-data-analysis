@@ -1,60 +1,115 @@
-import os
 from flask import Flask, jsonify
-from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy import create_engine, Column, Integer, String
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
+import json
+import numpy as np
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func
 
-app = Flask(__name__)
 
-# Configure the SQLite Database
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///flights.db'
-db = SQLAlchemy(app)
+#################################################
+# Database Setup
+#################################################
+engine = create_engine('sqlite:///flights1.db')
 
-# Define data model as a class
-class Flight(db.Model):
-    __tablename__ = 'flights'
+# reflect an existing database into a new model
+Base = automap_base()
 
-    id = db.Column(db.Integer, primary_key=True)
-    airport_name = db.Column(db.String)
-    country_name = db.Column(db.String)
-    continent = db.Column(db.String)
-    departure_date = db.Column(db.String)
-    arrival_airport = db.Column(db.String)
-    pilot_name = db.Column(db.String)
-    flight_status = db.Column(db.String)
+# reflect the tables
+Base.prepare(autoload_with=engine)
+
+# Save reference to the table
+flights = Base.classes.flights
+
+#################################################
+# Flask Setup
+#################################################
+app = Flask (__name__)
 
 #################################################
 # Flask Routes
 #################################################
 
-# @app.route('/')
-# def hello_world():
-#     return 'Hello, World!'
+@app.route ('/data', methods = ['GET'])
+def data():
+   try:
+      with open ('data.json','r') as json_file:
+         data = json.load(json_file)
 
-# if __name__ == '__main__':
-#     app.run()
+      return jsonify(data)
+   except FileNotFoundError:
+       return jsonify({'this sucks'})
 
-# Define a route to get all flights
-@app.route('/flights/public')
-def get_all_flights():
-    flights = Flight.query.all()
-    flight_list = []
+@app.route('/data/argentina', methods = ['GET'])
+def argentina():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
 
-    for flight in flights:
-        flight_data = {
-            'id': flights.id,
-            'airport_name': flights.airport_name,
-            'country_name': flights.country_name,
-            'continent': flights.continent,
-            'departure_date': flights.departure_date,
-            'arrival_airport': flights.arrival_airport,
-            'pilot_name': flights.pilot_name,
-            'flight_status': flights.flight_status
-        }
-        flight_list.append(flight_data)
+    """Return a list of all data for Argentina"""
+    argentina = session.query(flights.country_name, flights.airport_name, flights.arrival_airport, flights.flight_status, flights.Longitude, flights.Latitude).filter(flights.country_name == "Argentina").all()
+    
+    # Convert list of tuples into normal list
+    all_names = list(np.ravel(argentina))
 
-    return jsonify(flight_list), 200
+    return jsonify(all_names)
+
+@app.route('/data/germany', methods = ['GET'])
+def germany():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    """Return a list of all data for Germany"""
+    germany= session.query(flights.country_name, flights.airport_name, flights.arrival_airport, flights.flight_status, flights.Longitude, flights.Latitude).filter(flights.country_name == "Germany").all()
+    
+    # Convert list of tuples into normal list
+    all_names = list(np.ravel(germany))
+
+    return jsonify(all_names)
+
+@app.route('/data/italy', methods = ['GET'])
+def italy():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    """Return a list of all passenger names"""
+    italy = session.query(flights.country_name, flights.airport_name, flights.arrival_airport, flights.flight_status, flights.Longitude, flights.Latitude).filter(flights.country_name == "Italy").all()
+    
+    #session.query = SELECT COUNTRY_NAME, FLIGHT_STATUS FROM AJDFHA
+    #.filter = WHERE
+    #flights.[...]=FROM
+
+    session.close()
+
+    # Convert list of tuples into normal list
+    all_names = list(np.ravel(italy))
+
+    return jsonify(all_names)
+
+@app.route('/data/mexico', methods = ['GET'])
+def mexico():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    """Return a list of all data for Mexico"""
+    mexico = session.query(flights.country_name, flights.airport_name, flights.arrival_airport, flights.flight_status, flights.Longitude, flights.Latitude).filter(flights.country_name == "Mexico").all()
+    
+    # Convert list of tuples into normal list
+    all_names = list(np.ravel(mexico))
+
+    return jsonify(all_names)
+
+@app.route('/data/uk', methods = ['GET'])
+def uk():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    """Return a list of all data for United Kingdom"""
+    uk = session.query(flights.country_name, flights.airport_name, flights.arrival_airport, flights.flight_status, flights.Longitude, flights.Latitude).filter(flights.country_name == "United Kingdom").all()
+    
+    # Convert list of tuples into normal list
+    all_names = list(np.ravel(uk))
+
+    return jsonify(all_names)
 
 if __name__ == '__main__':
-    app.run(debug=True, port='5001')
+   app.run(debug=True)
