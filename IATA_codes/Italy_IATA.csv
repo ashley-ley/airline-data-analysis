@@ -1,64 +1,64 @@
-﻿"""IATA"",""Airport Name"",""Latitude"",""Longitude"""
-"""FNU"",""Oristano-Fenosu Airport"",""39.895308"",""8.6383"""
-"""QLT"",""Latina Airport"",""41.5424"",""12.9090"""
-"""EBA"",""Marina Di Campo Airport"",""42.760277"",""10.239445"""
-"""GRS"",""Grosseto Air Base"",""42.7603"",""11.0712"""
-"""CDF"",""Campo dell'Oro Airport"",""41.9202"",""9.4028"""
-"""QRT"",""Capua Airport"",""41.1006"",""14.2208"""
-"""LCC"",""Lecce Galatina Air Base"",""40.2395"",""18.1333"""
-"""BZO"",""Bolzano Airport"",""46.4602"",""11.3264"""
-"""QPA"",""Padova Airport"",""45.3957"",""11.8479"""
-"""PEG"",""Perugia San Francesco d'Assisi – Umbria International Airport"",""43.0958"",""12.5132"""
-"""RAN"",""Ravenna Airport"",""44.3643"",""12.2017"""
-"""NAP"",""Naples International Airport"",""40.8860"",""14.2908"""
-"""TQR"",""San Domino Island Airport"",""42.1122"",""15.4886"""
-"""REG"",""Reggio Calabria Airport"",""38.0712"",""15.6516"""
-"""PMO"",""Falcone–Borsellino Airport"",""38.1759"",""13.0910"""
-"""LMP"",""Lampedusa Airport"",""35.4979"",""12.6181"""
-"""QLP"",""L'Aquila–Preturo Airport"",""42.3799"",""13.3094"""
-"""OLB"",""Olbia Costa Smeralda Airport"",""40.8987"",""9.5176"""
-"""CTA"",""Catania–Fontanarossa Airport"",""37.4668"",""15.0665"""
-"""TPS"",""Trapani Birgi Airport"",""37.9112"",""12.4877"""
-"""SUF"",""Lamezia Terme International Airport"",""38.9054"",""16.2423"""
-"""BRI"",""Bari Karol Wojtyła Airport"",""41.1389"",""16.7606"""
-"""TAR"",""Taranto-Grottaglie Airport"",""40.5175"",""17.4032"""
-"""RMI"",""Rimini Miramare Airport"",""44.0203"",""12.6117"""
-"""FCO"",""Leonardo da Vinci-Fiumicino Airport"",""41.8003"",""12.2389"""
-"""VIC"",""Vicenza Airport"",""45.5725"",""11.5295"""
-"""VCE"",""Venice Marco Polo Airport"",""45.5053"",""12.3403"""
-"""VBS"",""Brescia Airport"",""45.4289"",""10.3306"""
-"""PMF"",""Parma Airport"",""44.8245"",""10.2964"""
-"""TRS"",""Trieste – Friuli Venezia Giulia Airport"",""45.8275"",""13.4722"""
-"""AVB"",""Aviano Air Base"",""46.0319"",""12.5965"""
-"""MXP"",""Milan Malpensa Airport"",""45.6306"",""8.7281"""
-"""CIY"",""Comiso Airport"",""36.9946"",""14.6079"""
-"""LIN"",""Milan Linate Airport"",""45.4451"",""9.2767"""
-"""AHO"",""Alghero-Fertilia Airport"",""40.6321"",""8.2908"""
-"""QSR"",""Salerno Costa d'Amalfi Airport"",""40.6204"",""14.9113"""
-"""PSA"",""Pisa International Airport"",""43.6839"",""10.3925"""
-"""FRL"",""Forlì Airport"",""44.1948"",""12.0701"""
-"""QAQ"",""La Maddalena Airport"",""41.2452"",""9.4073"""
-"""PNL"",""Pantelleria Airport"",""36.8165"",""11.9689"""
-"""ALL"",""Albenga Airport"",""44.0486"",""8.1274"""
-"""TRN"",""Turin Airport"",""45.2008"",""7.6496"""
-"""FOG"",""Foggia Gino Lisa Airport"",""41.4332"",""15.535"""
-"""BLX"",""Belluno Airport"",""46.1516"",""12.2233"""
-"""CAG"",""Cagliari Elmas Airport"",""39.2515"",""9.0543"""
-"""NSY"",""Sigonella Naval Air Station"",""37.4016"",""14.9223"""
-"""TTB"",""Tortolì Airport"",""39.9188"",""9.6829"""
-"""BLQ"",""Bologna Guglielmo Marconi Airport"",""44.5354"",""11.2887"""
-"""FLR"",""Florence Airport"",""43.8090"",""11.2051"""
-"""AOT"",""Aosta Valley Airport"",""45.7385"",""7.3683"""
-"""BDS"",""Brindisi – Salento Airport"",""40.6576"",""17.9470"""
-"""GOA"",""Genoa Cristoforo Colombo Airport"",""44.4133"",""8.8376"""
-"""CIA"",""Rome Ciampino Airport"",""41.7992"",""12.5949"""
-"""CUF"",""Cuneo International Airport"",""44.5470"",""7.6232"""
-"""BGY"",""Orio al Serio International Airport"",""45.6739"",""9.7042"""
-"""TSF"",""Treviso Airport"",""45.6484"",""12.1944"""
-"""DCI"",""Decimomannu Air Base"",""39.3542"",""8.9725"""
-"""LCV"",""Lucca-Tassignano Airport"",""43.8379"",""10.5731"""
-"""VRN"",""Verona Villafranca Airport"",""45.3957"",""10.8885"""
-"""PSR"",""Abruzzo Airport"",""42.4317"",""14.1811"""
-"""UDN"",""Udine Air Base"",""46.0297"",""13.1836"""
-"""SAY"",""Siena-Ampugnano Airport"",""43.2572"",""11.2531"""
-Message project3_g7
+﻿IATA,Airport Name,Latitude,Longitude
+FNU,Oristano-Fenosu Airport,39.895308,8.6383
+QLT,Latina Airport,41.5424,12.909
+EBA,Marina Di Campo Airport,42.760277,10.239445
+GRS,Grosseto Air Base,42.7603,11.0712
+CDF,Campo dell'Oro Airport,41.9202,9.4028
+QRT,Capua Airport,41.1006,14.2208
+LCC,Lecce Galatina Air Base,40.2395,18.1333
+BZO,Bolzano Airport,46.4602,11.3264
+QPA,Padova Airport,45.3957,11.8479
+PEG,Perugia San Francesco d'Assisi – Umbria International Airport,43.0958,12.5132
+RAN,Ravenna Airport,44.3643,12.2017
+NAP,Naples International Airport,40.886,14.2908
+TQR,San Domino Island Airport,42.1122,15.4886
+REG,Reggio Calabria Airport,38.0712,15.6516
+PMO,Falcone–Borsellino Airport,38.1759,13.091
+LMP,Lampedusa Airport,35.4979,12.6181
+QLP,L'Aquila–Preturo Airport,42.3799,13.3094
+OLB,Olbia Costa Smeralda Airport,40.8987,9.5176
+CTA,Catania–Fontanarossa Airport,37.4668,15.0665
+TPS,Trapani Birgi Airport,37.9112,12.4877
+SUF,Lamezia Terme International Airport,38.9054,16.2423
+BRI,Bari Karol Wojtyła Airport,41.1389,16.7606
+TAR,Taranto-Grottaglie Airport,40.5175,17.4032
+RMI,Rimini Miramare Airport,44.0203,12.6117
+FCO,Leonardo da Vinci-Fiumicino Airport,41.8003,12.2389
+VIC,Vicenza Airport,45.5725,11.5295
+VCE,Venice Marco Polo Airport,45.5053,12.3403
+VBS,Brescia Airport,45.4289,10.3306
+PMF,Parma Airport,44.8245,10.2964
+TRS,Trieste – Friuli Venezia Giulia Airport,45.8275,13.4722
+AVB,Aviano Air Base,46.0319,12.5965
+MXP,Milan Malpensa Airport,45.6306,8.7281
+CIY,Comiso Airport,36.9946,14.6079
+LIN,Milan Linate Airport,45.4451,9.2767
+AHO,Alghero-Fertilia Airport,40.6321,8.2908
+QSR,Salerno Costa d'Amalfi Airport,40.6204,14.9113
+PSA,Pisa International Airport,43.6839,10.3925
+FRL,Forlì Airport,44.1948,12.0701
+QAQ,La Maddalena Airport,41.2452,9.4073
+PNL,Pantelleria Airport,36.8165,11.9689
+ALL,Albenga Airport,44.0486,8.1274
+TRN,Turin Airport,45.2008,7.6496
+FOG,Foggia Gino Lisa Airport,41.4332,15.535
+BLX,Belluno Airport,46.1516,12.2233
+CAG,Cagliari Elmas Airport,39.2515,9.0543
+NSY,Sigonella Naval Air Station,37.4016,14.9223
+TTB,Tortolì Airport,39.9188,9.6829
+BLQ,Bologna Guglielmo Marconi Airport,44.5354,11.2887
+FLR,Florence Airport,43.809,11.2051
+AOT,Aosta Valley Airport,45.7385,7.3683
+BDS,Brindisi – Salento Airport,40.6576,17.947
+GOA,Genoa Cristoforo Colombo Airport,44.4133,8.8376
+CIA,Rome Ciampino Airport,41.7992,12.5949
+CUF,Cuneo International Airport,44.547,7.6232
+BGY,Orio al Serio International Airport,45.6739,9.7042
+TSF,Treviso Airport,45.6484,12.1944
+DCI,Decimomannu Air Base,39.3542,8.9725
+LCV,Lucca-Tassignano Airport,43.8379,10.5731
+VRN,Verona Villafranca Airport,45.3957,10.8885
+PSR,Abruzzo Airport,42.4317,14.1811
+UDN,Udine Air Base,46.0297,13.1836
+SAY,Siena-Ampugnano Airport,43.2572,11.2531
+Message project3_g7,,,
