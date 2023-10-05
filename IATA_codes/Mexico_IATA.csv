@@ -1,100 +1,144 @@
-﻿"IATA,""Airport","Name"",""Latitude"",""Longitude""",,,,,
-"NCG,""Nuevo",Casas,Grandes,Municipal,"Airport"",""30.3974"",""-107.8747""",,
-"REX,""General",Lucio,Blanco,International,"Airport"",""25.9025"",""-98.2392""",,
-"PCO,""Punta",Colorada,"Airport"",""23.4434"",""-109.1312""",,,,
-"AJS,""Abreojos","Airport"",""26.7117"",""-113.9116""",,,,,
-"CZM,""Cozumel",International,"Airport"",""20.5224"",""-86.9256""",,,,
-"BJX,""Del",Bajío,International,"Airport"",""20.9935"",""-101.4810""",,,
-"UAC,""San",Luis,Río,Colorado,"Airport"",""32.4466"",""-114.8039""",,
-"XAL,""Álamo",Temapache,National,"Airport"",""21.4195"",""-97.7916""",,,
-"CTM,""Chetumal",International,"Airport"",""18.5047"",""-88.3268""",,,,
-"HUX,""Bahías",de,Huatulco,International,"Airport"",""15.7753"",""-96.2626""",,
-"CUN,""Cancún",International,"Airport"",""21.0365"",""-86.8771""",,,,
-"VER,""General",Heriberto,Jara,International,"Airport"",""19.1459"",""-96.1873""",,
-"LTO,""Loreto",International,"Airport"",""25.9892"",""-111.3480""",,,,
-"CUU,""General",Roberto,Fierro,Villalobos,International,"Airport"",""28.7029"",""-105.9646""",
-"TZM,""Tizimín","Airport"",""21.4410"",""-88.2356""",,,,,
-"CEN,""Ciudad",Obregón,International,"Airport"",""27.3926"",""-109.8330""",,,
-"TAP,""Tapachula",International,"Airport"",""14.7943"",""-92.3700""",,,,
-"TRC,""Francisco",Sarabia,International,"Airport"",""25.5683"",""-103.4106""",,,
-"LOM,""Francisco",Primo,de,Verdad,National,"Airport"",""21.2588"",""-102.5580""",
-"CJT,""Copalar","Airport"",""16.0392"",""-90.7418""",,,,,
-"TUY,""Tulum",Naval,Air,"Station"",""20.2140"",""-87.4662""",,,
-"GDL,""Guadalajara",International,"Airport"",""20.5218"",""-103.3112""",,,,
-"MLM,""General",Rafael,Buelna,International,"Airport"",""19.8499"",""-101.0255""",,
-"CLQ,""Licenciado",Miguel,de,la,Madrid,"Airport"",""19.2770"",""-103.5771""",
-"ZIH,""Ixtapa-Zihuatanejo",International,"Airport"",""17.6016"",""-101.4605""",,,,
-"PPE,""Puerto",Peñasco,International,"Airport"",""31.3510"",""-113.5257""",,,
-"BHL,""Bahía",de,los,Ángeles,"Airport"",""28.9678"",""-113.5620""",,
-"TPQ,""Amado",Nervo,National,"Airport"",""21.4195"",""-104.8378""",,,
-"MEX,""Mexico",City,International,"Airport"",""19.4363"",""-99.0721""",,,
-"MMC,""Ciudad",Mante,National,"Airport"",""22.7689"",""-99.0012""",,,
-"MID,""Manuel",Crescencio,Rejón,International,"Airport"",""20.9370"",""-89.6577""",,
-"CUA,""Ciudad",Constitución,"Airport"",""25.0528"",""-111.6150""",,,,
-"GYM,""General",José,María,Yáñez,International,"Airport"",""27.9689"",""-110.9255""",
-"PVR,""Licenciado",Gustavo,Díaz,Ordaz,International,"Airport"",""20.6801"",""-105.2542""",
-"LOV,""Monclova",International,"Airport"",""26.9556"",""-101.4701""",,,,
-"PBC,""Hermanos",Serdán,International,"Airport"",""19.1581"",""-98.3714""",,,
-"SZT,""San",Cristóbal,de,las,Casas,National,"Airport"",""16.6903"",""-92.5301"""
-"CZA,""Chichén",Itzá,International,"Airport"",""20.6413"",""-88.4462""",,,
-"AZG,""Apatzingán",National,"Airport"",""19.6028"",""-102.3717""",,,,
-"NTR,""Del",Norte,International,"Airport"",""25.8656"",""-100.2374""",,,
-"CVM,""General",Pedro,J.,Méndez,International,"Airport"",""23.7033"",""-98.9564""",
-"MTY,""General",Mariano,Escobedo,International,"Airport"",""25.7785"",""-100.1070""",,
-"SFH,""San",Felipe,International,"Airport"",""30.9302"",""-114.8087""",,,
-"NLD,""Quetzalcóatl",International,"Airport"",""27.4431"",""-99.5705""",,,,
-"CNA,""Cananea",National,"Airport"",""30.9875"",""-110.3080""",,,,
-"SCX,""Salina",Cruz,Naval,Air,"Station"",""16.1773"",""-95.1995""",,
-"JAL,""El",Lencero,"Airport"",""19.4751"",""-96.7975""",,,,
-"ZMM,""Zamora",National,"Airport"",""19.9846"",""-102.2668""",,,,
-"AGU,""Lic.",Jesús,Terán,Peredo,International,"Airport"",""21.7056"",""-102.3180""",
-"UPN,""Uruapan",International,"Airport"",""19.3967"",""-102.0392""",,,,
-"PCM,""Playa",del,Carmen,"Airport"",""20.6221"",""-87.0820""",,,
-"ZLO,""Playa",de,Oro,International,"Airport"",""19.1448"",""-104.5586""",,
-"MZT,""General",Rafael,Buelna,International,"Airport"",""23.1611"",""-106.2660""",,
-"NLU,""Santa",Lucía,Air,Force,"Base"",""19.7548"",""-98.5709""",,
-"SLP,""Ponciano",Arriaga,International,"Airport"",""22.2543"",""-100.9308""",,,
-"TCN,""Tehuacán","Airport"",""18.4972"",""-97.4199""",,,,,
-"TIJ,""Tijuana",International,"Airport"",""32.5411"",""-116.9703""",,,,
-"SGM,""San",Ignacio,"Airfield"",""27.0458"",""-112.2350""",,,,
-"PCV,""Punta",Chivato,"Airport"",""26.9967"",""-111.8483""",,,,
-"MXL,""General",Rodolfo,Sánchez,Taboada,International,"Airport"",""32.6306"",""-115.2419""",
-"CME,""Ciudad",del,Carmen,International,"Airport"",""18.6537"",""-91.7990""",,
-"TAM,""General",Francisco,Javier,Mina,International,"Airport"",""22.2964"",""-97.8659""",
-"TGZ,""Ángel",Albino,Corzo,International,"Airport"",""16.5618"",""-93.0260""",,
-"CPE,""Ingeniero",Alberto,Acuña,Ongay,International,"Airport"",""19.8168"",""-90.5003""",
-"PDS,""Piedras",Negras,International,"Airport"",""28.6274"",""-100.5352""",,,
-"ISJ,""Isla",Mujeres,"Airport"",""21.2450"",""-86.7398""",,,,
-"ESE,""Ensenada","Airport"",""31.7953"",""-116.6024""",,,,,
-"SJD,""Los",Cabos,International,"Airport"",""23.1518"",""-109.7210""",,,
-"OAX,""Xoxocotlán",International,"Airport"",""16.9999"",""-96.7266""",,,,
-"PCM,""Playa",del,Carmen,"Airport"",""20.6221"",""-87.0820""",,,
-"LMM,""Federal",del,Valle,del,Fuerte,International,"Airport"",""25.6852"",""-109.0814"""
-"CUL,""Bachigualato",Federal,International,"Airport"",""24.7645"",""-107.4747""",,,
-"PXM,""Puerto",Escondido,International,"Airport"",""15.8769"",""-97.0891""",,,
-"SRL,""San",Bruno,"Airport"",""27.8333"",""-112.3833""",,,,
-"MUG,""Mulegé","Airport"",""26.9089"",""-111.9644""",,,,,
-"LOM,""Francisco",Primo,de,Verdad,National,"Airport"",""21.2588"",""-102.5580""",
-"AZP,""Atizapán-Jimenez",Cantu,"Airport"",""19.5986"",""-99.2869""",,,,
-"PAZ,""El",Tajín,National,"Airport"",""20.6027"",""-97.4608""",,,
-"VIB,""General",Rodolfo,S.,Robles,International,"Airport"",""20.6761"",""-103.6808""",
-"LAP,""Manuel",Márquez,de,León,International,"Airport"",""24.0727"",""-110.3625""",
-"IZT,""Ixtepec","Airport"",""16.4493"",""-95.0937""",,,,,
-"ACN,""Ciudad",Acuña,International,"Airport"",""29.3329"",""-100.9800""",,,
-"CYW,""Captain",Rogelio,Castillo,National,"Airport"",""20.5460"",""-100.8875""",,
-"LZC,""Lázaro",Cárdenas,"Airport"",""18.0016"",""-102.2205""",,,,
-"DGO,""Durango",International,"Airport"",""24.1242"",""-104.5287""",,,,
-"SNQ,""San",Quintín,"Airport"",""30.5703"",""-115.9910""",,,,
-"MTT,""Minatitlán/Coatzacoalcos",International,"Airport"",""18.1034"",""-94.5807""",,,,
-"VSA,""Carlos",Rovirosa,Pérez,International,"Airport"",""17.9968"",""-92.8174""",,
-"ACN,""Ciudad",Acuña,International,"Airport"",""29.3329"",""-100.9800""",,,
-"GUB,""Guerrero",Negro,"Airport"",""28.0261"",""-114.0240""",,,,
-"HMO,""General",Ignacio,P.,Garcia,International,"Airport"",""29.0959"",""-111.0479""",
-"TLC,""Lic.",Adolfo,López,Mateos,International,"Airport"",""19.3371"",""-99.5660""",
-"GUB,""Guerrero",Negro,"Airport"",""28.0261"",""-114.0240""",,,,
-"NOG,""Nogales",International,"Airport"",""31.2261"",""-110.9758""",,,,
-"MAM,""General",Servando,Canales,International,"Airport"",""25.7699"",""-97.5251""",,
-"SFH,""San",Felipe,International,"Airport"",""30.9302"",""-114.8087""",,,
-"TCN,""Tehuacán","Airport"",""18.4972"",""-97.4199""",,,,,
-"ZCL,""General",Rafael,Buelna,International,"Airport"",""22.8971"",""-102.6867""",,
-"MTY,""General",Mariano,Escobedo,International,"Airport"",""25.7785"",""-100.1070""",,
+﻿IATA,Airport Name,Latitude,Longitude
+NCG,Nuevo Casas Grandes Municipal Airport,30.3974,-107.8747
+REX,General Lucio Blanco International Airport,25.9025,-98.2392
+PCO,Punta Colorada Airport,23.4434,-109.1312
+AJS,Abreojos Airport,26.7117,-113.9116
+CZM,Cozumel International Airport,20.5224,-86.9256
+BJX,Del Bajío International Airport,20.9935,-101.481
+UAC,San Luis Río Colorado Airport,32.4466,-114.8039
+XAL,Álamo Temapache National Airport,21.4195,-97.7916
+CTM,Chetumal International Airport,18.5047,-88.3268
+HUX,Bahías de Huatulco International Airport,15.7753,-96.2626
+CUN,Cancún International Airport,21.0365,-86.8771
+VER,General Heriberto Jara International Airport,19.1459,-96.1873
+LTO,Loreto International Airport,25.9892,-111.348
+CUU,General Roberto Fierro Villalobos International Airport,28.7029,-105.9646
+TZM,Tizimín Airport,21.441,-88.2356
+CEN,Ciudad Obregón International Airport,27.3926,-109.833
+TAP,Tapachula International Airport,14.7943,-92.37
+TRC,Francisco Sarabia International Airport,25.5683,-103.4106
+LOM,Francisco Primo de Verdad National Airport,21.2588,-102.558
+CJT,Copalar Airport,16.0392,-90.7418
+TUY,Tulum Naval Air Station,20.214,-87.4662
+GDL,Guadalajara International Airport,20.5218,-103.3112
+MLM,General Rafael Buelna International Airport,19.8499,-101.0255
+CLQ,Licenciado Miguel de la Madrid Airport,19.277,-103.5771
+ZIH,Ixtapa-Zihuatanejo International Airport,17.6016,-101.4605
+PPE,Puerto Peñasco International Airport,31.351,-113.5257
+BHL,Bahía de los Ángeles Airport,28.9678,-113.562
+TPQ,Amado Nervo National Airport,21.4195,-104.8378
+MEX,Mexico City International Airport,19.4363,-99.0721
+MMC,Ciudad Mante National Airport,22.7689,-99.0012
+MID,Manuel Crescencio Rejón International Airport,20.937,-89.6577
+CUA,Ciudad Constitución Airport,25.0528,-111.615
+GYM,General José María Yáñez International Airport,27.9689,-110.9255
+PVR,Licenciado Gustavo Díaz Ordaz International Airport,20.6801,-105.2542
+LOV,Monclova International Airport,26.9556,-101.4701
+PBC,Hermanos Serdán International Airport,19.1581,-98.3714
+SZT,San Cristóbal de las Casas National Airport,16.6903,-92.5301
+CZA,Chichén Itzá International Airport,20.6413,-88.4462
+AZG,Apatzingán National Airport,19.6028,-102.3717
+NTR,Del Norte International Airport,25.8656,-100.2374
+CVM,General Pedro J. Méndez International Airport,23.7033,-98.9564
+MTY,General Mariano Escobedo International Airport,25.7785,-100.107
+SFH,San Felipe International Airport,30.9302,-114.8087
+NLD,Quetzalcóatl International Airport,27.4431,-99.5705
+CNA,Cananea National Airport,30.9875,-110.308
+SCX,Salina Cruz Naval Air Station,16.1773,-95.1995
+JAL,El Lencero Airport,19.4751,-96.7975
+ZMM,Zamora National Airport,19.9846,-102.2668
+AGU,Lic. Jesús Terán Peredo International Airport,21.7056,-102.318
+UPN,Uruapan International Airport,19.3967,-102.0392
+PCM,Playa del Carmen Airport,20.6221,-87.082
+ZLO,Playa de Oro International Airport,19.1448,-104.5586
+MZT,General Rafael Buelna International Airport,23.1611,-106.266
+NLU,Santa Lucía Air Force Base,19.7548,-98.5709
+SLP,Ponciano Arriaga International Airport,22.2543,-100.9308
+TCN,Tehuacán Airport,18.4972,-97.4199
+TIJ,Tijuana International Airport,32.5411,-116.9703
+SGM,San Ignacio Airfield,27.0458,-112.235
+PCV,Punta Chivato Airport,26.9967,-111.8483
+MXL,General Rodolfo Sánchez Taboada International Airport,32.6306,-115.2419
+CME,Ciudad del Carmen International Airport,18.6537,-91.799
+TAM,General Francisco Javier Mina International Airport,22.2964,-97.8659
+TGZ,Ángel Albino Corzo International Airport,16.5618,-93.026
+CPE,Ingeniero Alberto Acuña Ongay International Airport,19.8168,-90.5003
+PDS,Piedras Negras International Airport,28.6274,-100.5352
+ISJ,Isla Mujeres Airport,21.245,-86.7398
+ESE,Ensenada Airport,31.7953,-116.6024
+SJD,Los Cabos International Airport,23.1518,-109.721
+OAX,Xoxocotlán International Airport,16.9999,-96.7266
+PCM,Playa del Carmen Airport,20.6221,-87.082
+LMM,Federal del Valle del Fuerte International Airport,25.6852,-109.0814
+CUL,Bachigualato Federal International Airport,24.7645,-107.4747
+PXM,Puerto Escondido International Airport,15.8769,-97.0891
+SRL,San Bruno Airport,27.8333,-112.3833
+MUG,Mulegé Airport,26.9089,-111.9644
+LOM,Francisco Primo de Verdad National Airport,21.2588,-102.558
+AZP,Atizapán-Jimenez Cantu Airport,19.5986,-99.2869
+PAZ,El Tajín National Airport,20.6027,-97.4608
+VIB,General Rodolfo S. Robles International Airport,20.6761,-103.6808
+LAP,Manuel Márquez de León International Airport,24.0727,-110.3625
+IZT,Ixtepec Airport,16.4493,-95.0937
+ACN,Ciudad Acuña International Airport,29.3329,-100.98
+CYW,Captain Rogelio Castillo National Airport,20.546,-100.8875
+LZC,Lázaro Cárdenas Airport,18.0016,-102.2205
+DGO,Durango International Airport,24.1242,-104.5287
+SNQ,San Quintín Airport,30.5703,-115.991
+MTT,Minatitlán/Coatzacoalcos International Airport,18.1034,-94.5807
+VSA,Carlos Rovirosa Pérez International Airport,17.9968,-92.8174
+ACN,Ciudad Acuña International Airport,29.3329,-100.98
+GUB,Guerrero Negro Airport,28.0261,-114.024
+HMO,General Ignacio P. Garcia International Airport,29.0959,-111.0479
+TLC,Lic. Adolfo López Mateos International Airport,19.3371,-99.566
+GUB,Guerrero Negro Airport,28.0261,-114.024
+NOG,Nogales International Airport,31.2261,-110.9758
+MAM,General Servando Canales International Airport,25.7699,-97.5251
+SFH,San Felipe International Airport,30.9302,-114.8087
+TCN,Tehuacán Airport,18.4972,-97.4199
+ZCL,General Rafael Buelna International Airport,22.8971,-102.6867
+MTY,General Mariano Escobedo International Airport,25.7785,-100.107
+JAL,El Lencero Airport,19.4751,-96.7975
+TCN,Tehuacán Airport,18.4972,-97.4199
+CZM,Cozumel International Airport,20.5224,-86.9256
+LOM,Francisco Primo de Verdad National Airport,21.2588,-102.558
+GDL,Guadalajara International Airport,20.5218,-103.3112
+UAC,San Luis Río Colorado Airport,32.4466,-114.8039
+TIJ,Tijuana International Airport,32.5411,-116.9703
+SRL,San Bruno Airport,27.8333,-112.3833
+AGU,Lic. Jesús Terán Peredo International Airport,21.7056,-102.318
+CME,Ciudad del Carmen International Airport,18.6537,-91.799
+TAP,Tapachula International Airport,14.7943,-92.37
+PCO,Punta Colorada Airport,23.4434,-109.1312
+AJS,Abreojos Airport,26.7117,-113.9116
+BJX,Del Bajío International Airport,20.9935,-101.481
+UPN,Uruapan International Airport,19.3967,-102.0392
+ZLO,Playa de Oro International Airport,19.1448,-104.5586
+CUU,General Roberto Fierro Villalobos International Airport,28.7029,-105.9646
+PDS,Piedras Negras International Airport,28.6274,-100.5352
+TRC,Francisco Sarabia International Airport,25.5683,-103.4106
+MZT,General Rafael Buelna International Airport,23.1611,-106.266
+GDL,Guadalajara International Airport,20.5218,-103.3112
+VSA,Carlos Rovirosa Pérez International Airport,17.9968,-92.8174
+AJS,Abreojos Airport,26.7117,-113.9116
+ZIH,Ixtapa-Zihuatanejo International Airport,17.6016,-101.4605
+CUN,Cancún International Airport,21.0365,-86.8771
+HUX,Bahías de Huatulco International Airport,15.7753,-96.2626
+OAX,Xoxocotlán International Airport,16.9999,-96.7266
+PBC,Hermanos Serdán International Airport,19.1581,-98.3714
+PVR,Licenciado Gustavo Díaz Ordaz International Airport,20.6801,-105.2542
+LMM,Federal del Valle del Fuerte International Airport,25.6852,-109.0814
+PAZ,El Tajín National Airport,20.6027,-97.4608
+CJS,Abraham González International Airport,31.6361,-106.4287
+PCO,Punta Colorada Airport,23.4434,-109.1312
+BJX,Del Bajío International Airport,20.9935,-101.481
+CVM,General Pedro J. Méndez International Airport,23.7033,-98.9564
+CZM,Cozumel International Airport,20.5224,-86.9256
+SCX,Salina Cruz Naval Air Station,16.1773,-95.1995
+MUG,Mulegé Airport,26.9089,-111.9644
+GDL,Guadalajara International Airport,20.5218,-103.3112
+NLD,Quetzalcóatl International Airport,27.4431,-99.5705
+SJD,Los Cabos International Airport,23.1518,-109.721
+PVR,Licenciado Gustavo Díaz Ordaz International Airport,20.6801,-105.2542
+TRC,Francisco Sarabia International Airport,25.5683,-103.4106
+DGO,Durango International Airport,24.1242,-104.5287
