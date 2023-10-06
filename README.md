@@ -54,7 +54,7 @@ Moving forward, we would like to continue analyzing this information thoroughly 
 
 ## Project Contributors: 
 + Isac Ramos: GitHub | LinkedIn
-+ Ashley Ley: GitHub | LinkedIn 
++ Ashley Ley: [GitHub](https://github.com/ashley-ley) | [LinkedIn](https://www.linkedin.com/in/ashley-ley1/) 
 + Aaron Summers: GitHub | LinkedIn
-+ Dulce Silva: GitHub | LinkedIn
-+ Natalie Binder: GitHub | LinkedIn 
++ Dulce Silva: [GitHub](https://github.com/dulsilva) | [LinkedIn]( www.linkedin.com/in/dulce-elena-silva)
++ Natalie Binder: [GitHub](https://github.com/NatalieBinder) | [LinkedIn](https://www.linkedin.com/in/natalie-binder-936b1a233/)
