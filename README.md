@@ -1,6 +1,6 @@
 # Flight Performance and Weather Analysis
 ## Overview
-This project aims to analyze flight performance in globally. Our protoype focuses on the UK, Argentina, Germany, Italy, and Mexico. We are looking for a correlation between the local weather conditions during the year 2022-focusing on March, June, and December travel dates. The primary goal is to assist travelers in choosing the right destination at the right time by providing insights into flight punctuality and its relationship with weather patterns. An interactive dashboard allows users to select a country and view visualizations highlighting the best times of the year to travel to that city.
+This project aims to analyze flight performance in globally based on their flight status (canceled, on time, or delayed). Our protoype focuses on the United Kingdom (UK), Argentina, Germany, Italy, and Mexico. Our goal is to help the avid traveler get to their desired destination in the most efficient way. OUur current data set includes information about flight statuses internationally, but specifically focusing on five specific countries. 
 
 ## Countries Analyzed
 + The United Kingdom
@@ -8,6 +8,8 @@ This project aims to analyze flight performance in globally. Our protoype focuse
 + Germany
 + Argentina
 + Mexico
+
+As we continue analyzing this project and assessing specific issues we were seeing with our Flask API, our goal is to create an interactive dashboard for users to click and choose their desired destination for travel, then further decide what airport they want to travel to based on flight status. The primary goal of this dashboard is to give users a way to travel efficiently while comparing weather for the specific times of year. 
 
 ## Data Sources
 Datasets for flight performance and weather were collected from Kaggle. 
@@ -40,7 +42,15 @@ Select the city you would like to travel to.
 The dashboard will display flight performance information for the chosen country and airport based on the time of year and local weather conditions.
 
 ## Results and Conclusion
-Users can expect to find valuable insights to help them choose their desired destination country and airport to visit based on flight performance and weather conditions. Users can select a country and an interactive dashboard will deploy for users to interact with and determine what city is best for them. Each airport will display a stacked bar graph/multi-line graph with flight status results (canceled/delayed/on-time) for respective city. Data will be organized by time of year to determine the best time of year to travel to each country! 
+Currently, we focused our analysis on a few countries based on high-travel times (March for Spring Break, June for Summer Vacation and December for the Holiday Season). These times were chosen to help depict a clear picture for flight status based on country. With the holidays quickly approaching, we wanted to display the flight status for countries of our desired destinations while we continue working. 
+
+### Flight Status in Germany during December 2022
+![image](https://github.com/ashley-ley/airline-data-analysis/assets/132225987/3f313410-9bf7-46ff-aaf6-3c0684a0f747)
+
+### FLight Status in Mexico in December 2022
+![image](https://github.com/ashley-ley/airline-data-analysis/assets/132225987/285e5faa-9a1e-4fb6-9347-ad315d01b577)
+
+Moving forward, we would like to continue analyzing this information thoroughly by diving into specific airports in each country. Users can expect to find valuable insights to help them choose their desired destination country and airport to visit based on flight performance and weather conditions. Users will select a country and an interactive dashboard will deploy for users to interact with and determine what airport will be best for their travel destinations. Each airport will display a stacked bar graph/multi-line graph with flight status results (canceled/delayed/on-time) for the respective airport. Data will be organized by time of year to determine the best time of year to travel to each country! 
 
 ## Project Contributors: 
 + Isac Ramos: GitHub | LinkedIn
