@@ -1,11 +1,13 @@
 # Flight Performance and Weather Analysis
 ## Overview
-This project aims to analyze flight performance in three cities - Denver, Dallas, and London - and correlate it with the local weather conditions during the year 2022. The primary goal is to assist travelers in choosing the right destination at the right time by providing insights into flight punctuality and its relationship with weather patterns. An interactive dashboard allows users to select a city and view visualizations highlighting the best times of the year to travel to that city.
+This project aims to analyze flight performance in globally. Our protoype focuses on the UK, Argentina, Germany, Italy, and Mexico. We are looking for a correlation between the local weather conditions during the year 2022-focusing on March, June, and December travel dates. The primary goal is to assist travelers in choosing the right destination at the right time by providing insights into flight punctuality and its relationship with weather patterns. An interactive dashboard allows users to select a country and view visualizations highlighting the best times of the year to travel to that city.
 
-## Cities Analyzed
-+ Denver, Colorado (DEN)
-+ Dallas, Texas (DFW)
-+ London, United Kingdom (LHR)
+## Countries Analyzed
++ The United Kingdom
++ Italy
++ Germany
++ Argentina
++ Mexico
 
 ## Data Sources
 Datasets for flight performance and weather were collected from Kaggle. 
@@ -27,7 +29,7 @@ We also cross-analyze this data with local weather conditions to identify potent
 
 ## Technologies Used
 + Jupyter Notebook to cleanse the datasets 
-+ PostgreSQL for database management
++ PostgreSQL and SQLite for database management
 + HTML, JavaScript, and CSS for creating an interactive dashboard
 
 ## Installation
@@ -35,10 +37,10 @@ To access our technology, visit the deployed link. If you intend to modify the c
 
 ## Usage
 Select the city you would like to travel to.
-The dashboard will display flight performance information for the chosen city based on the time of year and local weather conditions.
+The dashboard will display flight performance information for the chosen country and airport based on the time of year and local weather conditions.
 
 ## Results and Conclusion
-Users can expect to find valuable insights to help them choose their desired destination city to visit based on flight performance and weather conditions. Users can select a city and an interactive dashboard will deploy for users to interact with and determine what city is best for them. Each city will display a stacked bar graph/multi-line graph with flight status results (canceled/delayed/on-time) for respective city. Data will be organized by time of year to determine the best time of year to travel to each city! 
+Users can expect to find valuable insights to help them choose their desired destination country and airport to visit based on flight performance and weather conditions. Users can select a country and an interactive dashboard will deploy for users to interact with and determine what city is best for them. Each airport will display a stacked bar graph/multi-line graph with flight status results (canceled/delayed/on-time) for respective city. Data will be organized by time of year to determine the best time of year to travel to each country! 
 
 ## Project Contributors: 
 + Isac Ramos: GitHub | LinkedIn
