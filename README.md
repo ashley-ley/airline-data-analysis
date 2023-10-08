@@ -55,6 +55,6 @@ Moving forward, we would like to continue analyzing this information thoroughly 
 ## Project Contributors: 
 + Isac Ramos: GitHub | LinkedIn
 + Ashley Ley: [GitHub](https://github.com/ashley-ley) | [LinkedIn](https://www.linkedin.com/in/ashley-ley1/) 
-+ Aaron Summers: GitHub | LinkedIn
++ Aaron Summers: [GitHub](https://github.com/summers-lee) | [LinkedIn](https://www.linkedin.com/in/aaron-summers-643725216/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 + Dulce Silva: [GitHub](https://github.com/dulsilva) | [LinkedIn]( www.linkedin.com/in/dulce-elena-silva)
 + Natalie Binder: [GitHub](https://github.com/NatalieBinder) | [LinkedIn](https://www.linkedin.com/in/natalie-binder-936b1a233/)
