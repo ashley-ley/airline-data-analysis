@@ -1,6 +1,6 @@
 # Flight Performance and Weather Analysis
 ## Overview
-This project aims to analyze flight performance in globally based on their flight status (canceled, on time, or delayed). Our protoype focuses on the United Kingdom (UK), Argentina, Germany, Italy, and Mexico. Our goal is to help the avid traveler get to their desired destination in the most efficient way. OUur current data set includes information about flight statuses internationally, but specifically focusing on five specific countries. 
+This project aims to analyze flight performance in globally based on their flight status (canceled, on time, or delayed). Our protoype focuses on the United Kingdom (UK), Argentina, Germany, Italy, and Mexico. Our goal is to help the avid traveler get to their desired destination in the most efficient way. Our current data set includes information about flight statuses internationally, but specifically focusing on five specific countries. 
 
 ## Countries Analyzed
 + The United Kingdom
